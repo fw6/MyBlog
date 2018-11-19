@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Lyman's Blog
+title: 达人观
 subtitle: 副标题
-description: 全栈开发
+description: 草际烟光，水心云影，闲中观去，见乾坤最上文章
 keywords:
 author: lyman
 language:
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://fw6.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -80,7 +80,8 @@ theme: miho
 deploy:
   type: git
   repo:
-    github: lyman0515.git,master
+    github: git@github.com:fw6/fw6.github.io.git
+    # branch: master
 
 #  jsonContent配置
 ## Docs: https://github.com/alexbruno/hexo-generator-json-content
