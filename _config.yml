@@ -4,7 +4,7 @@
 
 # Site
 title: 达人观
-subtitle: 副标题
+subtitle: 
 description: 草际烟光，水心云影，闲中观去，见乾坤最上文章
 keywords:
 author: lyman
@@ -123,7 +123,7 @@ live2d:
     width: 100
     height: 200
   mobile:
-    show: true
+    show: false
     scale: 0.2
     motion: true
   react:
