@@ -3,6 +3,7 @@ tags:
   - 随笔
 categories:
   - 生活
+cover_picture: /images/1.png
 date: 2018-11-13 11:09:00
 ---
 ## Quick Start
@@ -19,7 +20,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 ### Run server
 
 ``` bash
-$ hexo server
+$ hexo server -d
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
@@ -39,3 +40,6 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+### hexo-admin-qiniu
+localhost:4000/admin

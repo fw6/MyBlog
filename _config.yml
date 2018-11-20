@@ -81,7 +81,7 @@ deploy:
   type: git
   repo:
     github: git@github.com:fw6/fw6.github.io.git
-    branch: dep
+    branch: master
 
 #  jsonContent配置
 ## Docs: https://github.com/alexbruno/hexo-generator-json-content
